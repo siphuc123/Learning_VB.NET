@@ -2,4 +2,4 @@
 Just my practice on VB.NET (Mainly for storage my code)
 
 # Learning from:
-<b style="color:DarkBlue">freeCodeCamp.org:</b> https://www.youtube.com/watch?v=HFWQdGn5DaU
+<b style="color:#00008B">freeCodeCamp.org:</b> https://www.youtube.com/watch?v=HFWQdGn5DaU
