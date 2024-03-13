@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Projects\VB.NET\LearningVB\LearningVB\bin\Debug\LearningVB.exe.config
+C:\Users\Admin\Desktop\Projects\VB.NET\LearningVB\LearningVB\bin\Debug\LearningVB.exe
+C:\Users\Admin\Desktop\Projects\VB.NET\LearningVB\LearningVB\bin\Debug\LearningVB.pdb
+C:\Users\Admin\Desktop\Projects\VB.NET\LearningVB\LearningVB\bin\Debug\LearningVB.xml
+C:\Users\Admin\Desktop\Projects\VB.NET\LearningVB\LearningVB\obj\Debug\LearningVB.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\VB.NET\LearningVB\LearningVB\obj\Debug\LearningVB.Form1.resources
+C:\Users\Admin\Desktop\Projects\VB.NET\LearningVB\LearningVB\obj\Debug\LearningVB.Resources.resources
+C:\Users\Admin\Desktop\Projects\VB.NET\LearningVB\LearningVB\obj\Debug\LearningVB.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Projects\VB.NET\LearningVB\LearningVB\obj\Debug\LearningVB.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\VB.NET\LearningVB\LearningVB\obj\Debug\LearningVB.exe
+C:\Users\Admin\Desktop\Projects\VB.NET\LearningVB\LearningVB\obj\Debug\LearningVB.xml
+C:\Users\Admin\Desktop\Projects\VB.NET\LearningVB\LearningVB\obj\Debug\LearningVB.pdb
